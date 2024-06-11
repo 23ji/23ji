@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @23ji
-- 👀 I’m interested in front-end and app.
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on Android, ios, React and etc.
+- 👋 Hi, I’m Sangji Lee
+- 👀 I’m interested in IOS, mobile and front-end.
+- 🌱 I’m currently working as a Google Workplace engineer. 
+- 💞️ I’m looking to collaborate on ios, Android, React and etc.
 - 📫 How to reach me : isj4194@naver.com
 
 <!---
