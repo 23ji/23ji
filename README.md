@@ -1,8 +1,9 @@
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello,%20I'm%2023G&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> print(value == "23G" ? "이상지" : "") </h2>  
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&lines=print(value+%3D+%3D+%2223G%22%3F%22%EC%9D%B4%EC%83%81%EC%A7%80%22%3A%22%22)" alt="Typing SVG" /></a>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Google workspace 엔지니어로 일하고 있습니다.</li><li> IOS 개발을 공부하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
