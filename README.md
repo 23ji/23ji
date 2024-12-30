@@ -23,7 +23,13 @@
           <br/>
           </div>
     </div>
-    <div style="text-align: left;">
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Certification </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 정보처리기사ㅤㅤㅤ2021.11.26ㅤㅤㅤ한국산업인력공단 </div> 
+    </div>
+
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://dev-23g.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-23g.tistory.com/"> </a>
           </div>  <br> 
@@ -34,4 +40,3 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
