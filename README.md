@@ -26,8 +26,58 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Certification </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 정보처리기사ㅤㅤㅤ2021.11.26ㅤㅤㅤ한국산업인력공단 </div> 
-    </div>
+    <table style="border-collapse: collapse; width: 100%; text-align: left; color: #282d33; font-size: 15px; font-weight: 700;">
+        <thead>
+            <tr>
+                <th style="border-bottom: 2px solid #d8dee4; padding: 8px;">Certification</th>
+                <th style="border-bottom: 2px solid #d8dee4; padding: 8px;">Date</th>
+                <th style="border-bottom: 2px solid #d8dee4; padding: 8px;">Issuer</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 8px;">정보처리기사</td>
+                <td style="padding: 8px;">2021.11.26</td>
+                <td style="padding: 8px;">한국산업인력공단</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Professional Google Workspace Administrator Certification (English)</td>
+                <td style="padding: 8px;">2023.06.29</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Analyze and Visualize Looker</td>
+                <td style="padding: 8px;">2024.09.30</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>            
+            <tr>
+                <td style="padding: 8px;">Google Cloud Sales Credential (영어)</td>
+                <td style="padding: 8px;">2023.12.18</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Google Workspace Deployment Services Credential</td>
+                <td style="padding: 8px;">2023.05.17</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">Google Workspace Sales Credential</td>
+                <td style="padding: 8px;">2023.12.18</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">고급 프리미엄 IT 관리자 기능</td>
+                <td style="padding: 8px;">2023.12.18</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
+                <td style="padding: 8px;">그래픽기술자격(GTQ) 1급</td>
+                <td style="padding: 8px;">2021.09.20</td>
+                <td style="padding: 8px;">한국생산성본부</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
