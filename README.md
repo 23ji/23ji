@@ -7,7 +7,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Google workspace 엔지니어로 일하고 있습니다.</li><li> iOS 개발을 공부하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+        
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -25,7 +26,7 @@
     </div>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Certification </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🏅 Certification </h2>  
     <table style="border-collapse: collapse; width: 100%; text-align: left; color: #282d33; font-size: 15px; font-weight: 700;">
         <thead>
             <tr>
@@ -80,13 +81,13 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://dev-23g.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-23g.tistory.com/"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F23ji%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
