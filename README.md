@@ -7,7 +7,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Google workspace 엔지니어로 일하고 있습니다.</li><li> iOS 개발을 공부하고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
-        
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
