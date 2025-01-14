@@ -80,13 +80,19 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://dev-23g.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-23g.tistory.com/"> </a>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:isj4194@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:isj4194@gmail.com"> </a>
+         <a href=https://dev-23g.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dev-23g.tistory.com/"> </a>
+         <a href=https://23gg.notion.site/archiving?v=14eb5aaf180580bbabcb000cddaa47a6&pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://23gg.notion.site/archiving?v=14eb5aaf180580bbabcb000cddaa47a6&pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F23ji%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=23ji&bg_color=60,fff0fe,e0faff&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=60,fff0fe,e0faff&title_color=000000&text_color=000000"
+           /> </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br>🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+
+![Programmers Badge](https://raw.githubusercontent.com/23ji/Programmers_Badge_Generator/main/result/result.svg)
+
