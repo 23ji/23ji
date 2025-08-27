@@ -41,6 +41,11 @@
                 <td style="padding: 8px;">한국산업인력공단</td>
             </tr>
             <tr>
+                <td style="padding: 8px;">Associate Google Workspace Administrator Certification</td>
+                <td style="padding: 8px;">2025.08.13</td>
+                <td style="padding: 8px;">Google Cloud</td>
+            </tr>
+            <tr>
                 <td style="padding: 8px;">Professional Google Workspace Administrator Certification (English)</td>
                 <td style="padding: 8px;">2023.06.29</td>
                 <td style="padding: 8px;">Google Cloud</td>
@@ -92,7 +97,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=23ji&bg_color=60,fff0fe,e0faff&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ji&layout=compact&bg_color=60,fff0fe,e0faff&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
+</div>
 
 ![Programmers Badge](https://raw.githubusercontent.com/23ji/Programmers_Badge_Generator/main/result/result.svg)
-
