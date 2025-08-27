@@ -91,7 +91,7 @@
          <a href=https://23gg.notion.site/archiving?v=14eb5aaf180580bbabcb000cddaa47a6&pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://23gg.notion.site/archiving?v=14eb5aaf180580bbabcb000cddaa47a6&pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F23ji%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
+    </div> 
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=23ji&bg_color=60,fff0fe,e0faff&title_color=000000&text_color=000000"
